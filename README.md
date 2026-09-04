@@ -1,5 +1,7 @@
 # Weighted MinFAS Codes
 
+> **Historical predecessor.** This repository's approach was merged into [minimum-weighted-fas-heuristics](https://github.com/SoroushVahidi/minimum-weighted-fas-heuristics), which is the current, actively maintained repository for this line of work (see that repo's Provenance section). Retained here for historical reference.
+
 Code to **reproduce experiments** for a **local-ratio heuristic** for the **minimal (minimum) feedback arc set** problem in **weighted directed graphs**, using instances from **DIMACS** and other graph benchmarks.
 
 ## Reference
